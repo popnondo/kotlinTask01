@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity(),SensorEventListener {
         battleBtn.visibility = if(baibu) View.VISIBLE else View.INVISIBLE
 
         val colors = arrayOf(
-            "not EX-HARD","not HARD","not CLEAR","俺は荒野を爆走する")
+            "not EX-HARD","not HARD","not CLEAR")
 
         val groupDoudesho : RadioGroup = findViewById(R.id.doudesho)
         val adapter = ArrayAdapter(
