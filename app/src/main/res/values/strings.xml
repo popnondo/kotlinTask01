@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="messageTxt">対決列島</string>
+    <string name="submit">勝負</string>
+    <string name="fujimura">藤村</string>
+    <string name="ureshino">嬉野</string>
+    <string name="suzui">鈴井</string>
+    <string name="suzumushi">大泉</string>
+    <string name="deathzigoq">何ができないの？</string>
+    <string name="nextBtn">移動</string>
+    <string name="dateBtn">日付</string>
+    <string name="moveBtn">回転</string>
+    <string name="neko">サブカルクソニャンコ</string>
+    <string name="penguin">ケツデカピングー</string>
+    <string name="usagi">サブカルクソうさぎ</string>
+    <string name="apuName">テストアプリ</string>
+    <string name="apuVer">255</string>
+
+    <array name="bemani_10">
+        <item>NEMESIS</item>
+        <item>QUANTUM TELEPORTATION</item>
+        <item>Fascination MAXX</item>
+    </array>
+</resources>
